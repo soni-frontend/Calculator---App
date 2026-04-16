@@ -18,7 +18,7 @@ A simple and responsive Calculator App built using HTML, CSS, and JavaScript.
 (Add your live link here if deployed)
   
 ## GitHub Repository
-(Add your GitHub repo link here)
+(https://github.com/soni-frontend/Calculator---App)
 
 ## How to Use
 1. Open the app
